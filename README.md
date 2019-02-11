@@ -3,4 +3,4 @@ Cloud IoT Core is a fully managed service that allows you to easily and securely
 
 **What we'll build**
 
-![alt text](https://github.com/preetamMahapatra/google-cloud-iotcore-MQTT/mqtt_protocol_diagram.png)
+![alt text](https://github.com/preetamMahapatra/google-cloud-iotcore-MQTT/blob/master/mqtt_protocol_diagram.png)
