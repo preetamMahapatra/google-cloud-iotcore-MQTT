@@ -7,8 +7,8 @@ Cloud IoT Core is a fully managed service that allows you to easily and securely
 
 * We'll build one complete solution which can stream data over MQTT protocol from any source like Android things, PC, IOT device to cloud BigQuery.
 * **Services that are required listed below:**
-  * (Google cloud IOT core) [https://cloud.google.com/iot-core/"]
-  * Google cloud pub/sub
-  * Google cloud Dataflow
-  * Google cloud BigQuery
+  * Google cloud IOT core [https://cloud.google.com/iot-core/"]
+  * Google cloud pub/sub [https://cloud.google.com/pubsub/docs/overview]
+  * Google cloud Dataflow [https://cloud.google.com/dataflow/]
+  * Google cloud BigQuery [https://cloud.google.com/bigquery/]
   * Simulation device as data input
